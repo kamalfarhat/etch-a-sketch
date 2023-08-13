@@ -1,1 +1,23 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 100svh;
+}
 
+.divContainer {
+    display: grid;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    width: 100%;
+    height: 100svh;
+    
+}
+
+.square {
+    display: flex;
+    margin: 0;
+    background-color: white;
+}
